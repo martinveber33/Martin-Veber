@@ -1,7 +1,7 @@
 # Martin-Veber
 Personal GitHub profile showcasing my projects, coding journey, skills, and passion for technology.
 
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Martin Veber</h1>
 <h3 align="center">Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
